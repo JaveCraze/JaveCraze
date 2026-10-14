@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JaveCraze
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning gdscript/godot!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in NOTHING
+- 🌱 ARGHHHHH
+- 💞️ I’m looking to collaborate on No
+- 📫 How to reach me Throw A Bottle With A Letter in It Into The Sea
 
 <!---
 JaveCraze/JaveCraze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
